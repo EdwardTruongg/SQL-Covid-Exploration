@@ -40,4 +40,4 @@ Through this project, I learned how to:
 ## 📊 Visualization
 
 Check out the interactive Tableau dashboard that visualizes the results of this SQL exploration:  
-👉 [COVID-19 Dashboard on Tableau Public](https://public.tableau.com/app/profile/edward.truong/viz/2021CovidDashboard_17511583960440/Dashboard1?publish=yes
+👉 https://public.tableau.com/app/profile/edward.truong/viz/2021CovidDashboard_17511583960440/Dashboard1?publish=yes
