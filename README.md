@@ -6,7 +6,7 @@ This project is a beginner SQL analysis where I explored COVID-19 data using Mic
 
 - Microsoft SQL Server Management Studio (SSMS)
 - T-SQL
-- Public COVID-19 dataset (Deaths and Vaccinations) stored in the `PortfolioProject` database
+- Public COVID-19 dataset (Deaths and Vaccinations)
 
 ## 📊 Key Features
 
